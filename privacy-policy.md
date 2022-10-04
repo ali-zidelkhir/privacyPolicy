@@ -13,6 +13,9 @@ which is accessible in our website, unless otherwise defined in this Privacy Pol
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
 The app does use third party services that may collect information used to identify you.
 
+### Under the Age of 13
+we do not provide any type of collecting data or having any child under the 13 to be in our application using it, and we do not do any ads to collect theire attention.
+
 ### Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
 
